@@ -1,1 +1,0 @@
-print("Safhe Asli Bank")
